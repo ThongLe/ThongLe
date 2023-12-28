@@ -1,10 +1,8 @@
 ### Hi there! I'm Tony LE 👋
 
-I'm a software developer from Vietnam. 🇻🇳
+I'm a full-stack developer from Vietnam. 🇻🇳
 
-As a fullstack developer, I have been building distributed systems that exhibit reliability, scalability, high availability, and exceptional performance. 🌎
-
-I like to build things with distributed systems, blockchain/smart contracts, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs. 🤖
+I love to build things with Python, Ruby, Typescript, Javascript, and more. 🤖
 
 You can find me on:
 * [GitHub as @lpthong90 (you are here)](https://github.com/lpthong90)
